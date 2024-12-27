@@ -1,4 +1,4 @@
-# Connect: Online Interview Booking Platform
+# WeConnect: Online Interview Booking Platform
 
 ### Project Overview
 **Connect** is a web-based platform designed for seamless communication and collaboration between university students and faculty. Created for the **Sabaragamuwa University UI/UX Designathon**, this project provides a streamlined solution for booking and managing online interviews.
