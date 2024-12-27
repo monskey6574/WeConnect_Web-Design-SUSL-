@@ -7,9 +7,6 @@
 
 ## Key Features
 - **Interview Scheduling**: Enables students to book interviews with faculty members at their convenience.
-- **Role-Based Dashboards**:
-  - **Students**: View available time slots and book appointments.
-  - **Faculty**: Manage and update schedules, and approve/decline requests.
 - **Notifications**: Automated reminders for scheduled interviews.
 - **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 
